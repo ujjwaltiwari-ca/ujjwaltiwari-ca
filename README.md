@@ -1,35 +1,31 @@
 # 👋 Hi, I'm Ujjwal Tiwari
-### Senior MarTech Architect | 3x Salesforce Marketing Champion | 19x Salesforce Certified
+### Senior MarTech Architect & Salesforce Marketing Champion
 
-Welcome to my technical lab. I specialize in bridging the gap between business strategy and high-scale automation.
+I specialize in bridging the gap between high-level business strategy and complex marketing automation. My focus is on architecting scalable Salesforce Marketing Cloud (SFMC) solutions for global enterprises.
 
 ---
 
-## 🏆 Salesforce Credentials
+## 🚀 What I'm Focused On
+- **Enterprise Solution Design:** Building robust blueprints that align technology with corporate goals.
+- **Data Engineering in MarTech:** Mastering complex data flows using SQL (T-SQL/PostgreSQL) and automated data hygiene.
+- **Technical Knowledge Sharing:** Distilling complex SFMC topics into actionable tutorials for the global community.
+
+---
+
+## ✍️ Technical Thought Leadership
+I actively contribute to the Salesforce ecosystem by sharing advanced tutorials and scripts at [ujjwaltiwari.ca](https://ujjwaltiwari.ca).
+
+- **QueueMO API Integration:** Custom AMPScript frameworks for real-time SMS logging.
+- **Automating SFMC Governance:** Using JSON packages for standardized tracking extracts.
+
+---
+
+## 🏆 Core Credentials
 * **3x Salesforce Marketing Champion**
-* **19x Salesforce Certifications** including:
-    * Marketing Cloud Consultant, Developer, and Administrator
-    * Data Cloud Consultant
-    * Sales & Service Cloud Consultant
-    * Pardot Specialist & Platform App Builder
+* **19x Salesforce Certified** (Architect, Developer, and Consultant tracks)
 
 ---
 
-## 🛠️ Technical Focus
-* **Architecting SFMC Solutions:** Designing sophisticated blueprints for global enterprises.
-* **Data & Analytics:** Expertise in SQL (T-SQL/PostgreSQL), Google Analytics, and Tag Manager.
-* **Custom Development:** Advanced AMPScript, HTML/CSS, and API integrations.
-
----
-
-## ✍️ Latest from the Blog
-I share deep-dive technical tutorials at [ujjwaltiwari.ca](https://ujjwaltiwari.ca).
-* **Latest Topic:** Sending SMS via QueueMO API in SFMC.
-* **Latest Topic:** Creating Tracking Extract Data Extensions.
-
----
-
-## 📫 Connect with Me
-* **LinkedIn:** [linkedin.com/in/ujjwaltiwari](https://www.linkedin.com/in/ujjwaltiwari/)
-* **Portfolio:** [ujjwalmails.github.io/Resume/](https://ujjwalmails.github.io/Resume/)
-* **Email:** [im.ujjwal@gmail.com](mailto:im.ujjwal@gmail.com)
+## 📫 Connect & Collaborate
+- **LinkedIn:** [linkedin.com/in/ujjwaltiwari](https://www.linkedin.com/in/ujjwaltiwari/)
+- **Live Portfolio:** [Interactive Web Resume](https://ujjwalmails.github.io/Resume/)
