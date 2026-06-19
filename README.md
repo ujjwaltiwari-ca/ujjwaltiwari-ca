@@ -1,7 +1,5 @@
 # Ujjwal Tiwari
 
-**Salesforce Marketing Cloud architect** · 3× Marketing Champion · 19× certified
+3× Salesforce Marketing Champion · 19× certified
 
-I design enterprise SFMC solutions and publish architecture notes, scripts, and tutorials at [ujjwaltiwari.com](https://ujjwaltiwari.com).
-
-**[Website](https://ujjwaltiwari.com)** · **[LinkedIn](https://www.linkedin.com/in/ujjwaltiwari)** · **[Trailhead](https://www.salesforce.com/trailblazer/ujjwal)**
+Pinned repos below are production-ready SFMC utilities — AMPscript, SSJS, SQL queries, and Package Manager JSONs. Long-form tutorials and side projects live at [ujjwaltiwari.com](https://ujjwaltiwari.com).
